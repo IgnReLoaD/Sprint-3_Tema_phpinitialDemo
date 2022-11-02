@@ -7,7 +7,7 @@
  * controller#action-to-call method. E.g.:
  * 
  * '/' => 'index#index',
- * '/calendar' => 'calendar#index'
+ * '/calendar' => 'calendar#index' 
  */
 $routes = array(
 	'/test' => 'test#index'
