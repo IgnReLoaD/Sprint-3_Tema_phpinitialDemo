@@ -1,5 +1,7 @@
 <?php 
 
+// de web/index.php es mirarà la URL marcada p.ex. www.index.php/test (dirige la app)
+
 /**
  * Used to define the routes in the system.
  * 
@@ -12,5 +14,3 @@
 $routes = array(
 	'/test' => 'test#index'
 );
-
-// fichero que arranca dirige la app 

@@ -1,5 +1,7 @@
 <?php
 
+// el test abre la app por la ruta indicada en routes.php 
+
 class TestController extends ApplicationController
 {
 	public function indexAction()
@@ -13,4 +15,3 @@ class TestController extends ApplicationController
 	}
 }
 
-// el test abre la app por la ruta indicada en routes.php 
