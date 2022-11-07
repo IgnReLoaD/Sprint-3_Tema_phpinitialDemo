@@ -12,3 +12,5 @@ class TestController extends ApplicationController
 		echo "hello from test::check";
 	}
 }
+
+// el test abre la app por la ruta indicada en routes.php 

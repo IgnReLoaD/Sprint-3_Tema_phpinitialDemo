@@ -12,3 +12,5 @@
 $routes = array(
 	'/test' => 'test#index'
 );
+
+// fichero que arranca dirige la app 
